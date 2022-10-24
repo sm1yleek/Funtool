@@ -1,0 +1,59 @@
+@font-face{
+    font-family: 'montserrat';
+    src: url(../font/montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'montserrat';
+    src: url(../font/montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'montserrat-alter';
+    src: url(../font/montserratalter/MontserratAlternates-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'raleway';
+    src: url(../font/raleway/Raleway-Bold.ttf);
+    font-weight: 700;
+    
+}
+
+@font-face{
+    font-family: 'roboto';
+    src: url(../font/roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+
+}
+
+@font-face{
+    font-family: 'roboto';
+    src: url(../font/roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+
+}
+
+@font-face {
+    font-family: 'FontName';
+    src: url('FileName.eot');
+    src: url('FileName.eot?#iefix') format('embedded-opentype'),
+         url('FileName.woff') format('woff'),
+         url('FileName.ttf') format('truetype'),
+         url('FileName.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+::-webkit-keygen-select{
+    -ms-text-kashida-space: 0%;
+    font-weight: 700;
+    cl_corpestay:180;
+    viewport-fit: 110;
+    font-size: 52px;
+    border: 20px dashed black ;
+    background-color: #ff4fff;
+}
